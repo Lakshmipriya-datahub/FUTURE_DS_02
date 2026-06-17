@@ -3,6 +3,7 @@ Customer Retention & Churn Analysis
 📌Project Overview
 
 Customer Retention & Churn Analysis focuses on analyzing SaaS Subscription Churn Dataset to extract meaningful insights that support strategic decision-making. The primary objective is to evaluate Churn patterns, Retention analysis and Customer lifetime trends by churn and retention trends over time, determining top users and user status using churn flag. This dashboard provides a comprehensive analysis of customer behavior by examining churn rates, retention trends, and revenue contribution across different segments. The overall churn rate stands at 19%, with a retention rate of 81%, indicating a stable but improvable customer base.
+
 🎯Business Objectives
 
 A Superstore wants to analyze Customer Retention and Churn Patterns:
@@ -58,6 +59,7 @@ is_reactivation
 feedback_text
 
 mrr_account
+
 🛠️ Tools & Technologies Used
 
 Microsoft Excel – Data cleaning & preprocessing
@@ -109,9 +111,13 @@ Time-based filtering using slicers
 📈 Key Insights
 
 • The analysis shows a stable retention rate of around 81% and a churn rate of 19%, with a gradual improvement trend over time.
+
 • Churn patterns are similar across plans and industries.
+
 • High-revenue industries like EdTech also experience similar churn.
+
 • Customer lifetime follows a predictable pattern where users stay for a moderate duration before churning.
+
 • Overall, improving retention even slightly could significantly increase customer lifetime value and revenue.
 
 📌 Project Highlights
