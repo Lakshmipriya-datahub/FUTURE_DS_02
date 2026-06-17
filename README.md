@@ -6,7 +6,7 @@ Customer Retention & Churn Analysis focuses on analyzing SaaS Subscription Churn
 
 🎯Business Objectives
 
-A Superstore wants to analyze Customer Retention and Churn Patterns:
+A Subscription app wants to analyze Customer Retention and Churn Patterns:
 
 Analyze revenue trends over time
 
